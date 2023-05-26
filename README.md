@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thetraverller
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data and code
 - 🌱 I’m currently learning Python, SQL, powerBi, Tableau Excel
 - 💞️ I’m looking to collaborate on cool coding projects
 - 📫 How to reach me send a message
