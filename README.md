@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thetraverller
-- 👀 I’m interested in Data and code
-- 🌱 I’m currently learning Python, SQL, powerBi, Tableau Excel
+- 👀 I’m interested in data and code
+- 🌱 I’m currently learning Python, SQL, PowerBi, Tableau and Excel
 - 💞️ I’m looking to collaborate on cool coding projects
 - 📫 How to reach me send a message
 
