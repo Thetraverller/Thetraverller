@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thetraverller
+- 👋 Hi, I’m Tanzil
 - 👀 I’m interested in data and code
 - 🌱 I’m currently learning Python, SQL, PowerBi, Tableau and Excel
 - 💞️ I’m looking to collaborate on cool coding projects
